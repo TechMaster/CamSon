@@ -1,12 +1,13 @@
 # Chương trình bơi Cấm Sơn
 
-Thời gian: Chủ nhật, 23/7/2017
-Thời gian sáng 6:00 xuất phát, chiều 7:00 về Hà nội, đi trong ngày.
-Khoảng cách: 120 km, thời gian di chuyển khoảng 2 tiếng, về 2 tiếng.
+- Thời gian: Chủ nhật, 23/7/2017
+- Thời gian sáng 6:00 xuất phát, chiều 7:00 về Hà nội, đi trong ngày.
+- Khoảng cách: 120 km, thời gian di chuyển khoảng 2 tiếng, về 2 tiếng.
 
 **Contact tại Cấm Sơn**
-Anh Điền lái đò máy, sinh năm 1975, thầy giáo. 01695655824
-Cụ Kiên, chủ đảo, 88 tuổi, 0984183297
+
+- Anh Điền lái đò máy, sinh năm 1975, thầy giáo. 01695655824
+- Cụ Kiên, chủ đảo, 88 tuổi, 0984183297
 
 # Ban tổ chức
 - Thuê xe: a Giao
