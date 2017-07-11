@@ -27,7 +27,7 @@
 - 14:00 mọi người lên thuyền đi vòng quanh tất cả điểm ở hồ Cấm Sơn
 - 16:30 về bến đò Sơn Hải
 - 16:45 lên ô tô
-- 19:00 về Hà nội
+- 19:00 về Hà nội trả ở cổng công viên Thống Nhất
 ![Bản đồ](bando.jpg)
 # Dự tính chi phí:
 - 01 xe ô tô 45 chỗ 4 triệu VND
@@ -41,11 +41,11 @@ Tổng = 4 + 2.4 + 0.6 + 0.15 * 40  + 1 =  14 triệu VND
 
 Dự kiến thu là 400k /người bơi -> thu về 16 triệu VND, đủ dư đề phòng trừ các phát sinh. Nếu không dùng hết sung quỹ câu lạc bộ.
 
-# Cơ sở vật chất trên đảo ông cụ
+# Cơ sở vật chất trên đảo ông cụ Kiên 0984183297
 - Đảo rộng khoảng 600 m2, có nhà sàn đủ cho 25 người ngủ qua đêm (thiếu màn, chiếu và chăn)
 - Có sân rộng có thể nướng BBQ, trẻ con chạy nhảy chơi đùa, có 2 xích đu
 - Từ đảo đi đường đất sẽ lên đồi và ra đường cắt ra cao tốc Hà nội Lạng Sơn đi khoảng 1.5km
-- Có toilet, phòng tắm, điện nước đầy đủ
+- Có toilet, phòng tắm, điện nước đầy đủ, sạch sẽ
 - Có sân mái che để cắm trại qua đêm
 - Cần đặt gì phải báo trước 2 ngày.
 
@@ -59,9 +59,10 @@ Dự kiến thu là 400k /người bơi -> thu về 16 triệu VND, đủ dư đ
 7. Muốn ăn vải ⇒ mùa vải đã hết, hẹn năm sau.
 
 # Nhận xét về hồ Cấm Sơn
-- Hồ rất rộng 3000 ha, hồ Tây 450 ha.
+- Hồ rất rộng 3000 ha gấp 6.7 lần hồ Tây 450 ha.
 - Nước sạch, hoàn toàn không có chai lọ trôi trên hồ như hồ Ba bể, hay có rác củi như hồ Hoà Bình
 - Cảnh hồ - đồi xen kẽ nhau, không có nhưng cây mọc hình thù cổ quái như hồ Ba Bể
 - Thuyền bè đi lại rất ít, chủ yếu là thuyền nan , thuyền gỗ nhỏ câu cá
 - Dịch vụ ở đây rẻ, người dân thân thiện
+- Hồ nhiều cá, nếu đứng ở mép hồ trên bùn sẽ thấy cá nhỏ bơi ra rỉa chân buồn buồn.
 
