@@ -29,17 +29,14 @@
 - 19:00 về Hà nội trả ở cổng công viên Thống Nhất
 ![Bản đồ](bando.jpg)
 
+# Ăn uống trên đảo
+- Đảo có đủ mâm đũa bát cho khoảng 70 người. Trên đảo chỉ có 4 người sống do đó đoàn sẽ phải chủ động chuẩn bị nấu nướng từ lúc 10:00 sáng trước khi đội bơi cập đảo.
+- Giá cá chép nặng trên 1kg là 150,000 VN/kg 
+- Giá cá chắm cỏ là 100,000 VND/kg
+
 # Dự tính chi phí:
-- 01 xe ô tô 45 chỗ 4 triệu VND
-- Thuê 2 đò sắt  2 * 1,2 triệu = 2,4 triệu
-- Thuê 2 đò cắm cờ chỉ đường 2 * 300 = 0.6 triệu
-- Ăn uống trên đảo: cá chép, lợn quay … = 150k * 1 người
-- Quà lưu niệm tôi nghĩ chỉ nên có 2: một kỷ niệm dành cho bác Thơ sáng lập viên đầu tiên, sau đó là quà chia tay anh Toản sắp đi Ý ~ 1 triệu
+![Dự toán chi phí](DutoanChiPhi.jpg)
 
-- Giả thiết có 40 người tham dự
-Tổng = 4 + 2.4 + 0.6 + 0.15 * 40  + 1 =  14 triệu VND
-
-Dự kiến thu là 400k /người bơi -> thu về 16 triệu VND, đủ dư đề phòng trừ các phát sinh. Nếu không dùng hết sung quỹ câu lạc bộ.
 # Phát sinh có thể xảy ra
 - Số lượng người > 45. Phải thuê thêm 1 xe 16 chỗ
 - Thuê 3 đò sắt. Mỗi đò chỉ nên chở 25 người hoặc ít hơn
